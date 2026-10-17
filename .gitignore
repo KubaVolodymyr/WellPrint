@@ -1,0 +1,7 @@
+state.json
+seen.json
+bot.log
+alert.log
+.token
+config
+__pycache__/

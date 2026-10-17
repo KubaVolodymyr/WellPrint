@@ -1,0 +1,10 @@
+{
+  "token": "123456789:AAH4kZ...",
+  "chat_id": "-1001234567890",
+  "hub_token": "будь-який-довгий-пароль-для-вотчера",
+  "port": 8765,
+  "machines": {
+    "UF-3570": "/mnt/uf3570/AssemblyData/Variable/<голова>/<конфіг>/PrintHistory.xml",
+    "UF-6045": ""
+  }
+}

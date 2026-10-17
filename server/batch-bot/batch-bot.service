@@ -1,0 +1,10 @@
+[Unit]
+Description=Telegram batch bot
+After=network-online.target
+[Service]
+ExecStart=/usr/bin/python3 /home/shop/batch-bot/batch-bot.py
+Restart=always
+RestartSec=5
+User=shop
+[Install]
+WantedBy=multi-user.target
