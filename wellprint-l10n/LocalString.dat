@@ -3097,8 +3097,8 @@
         <Japanese/>
         <Korean>원점으로 돌아가다</Korean>
         <Turkish>Baslangica Git</Turkish>
-        <Russian>Перейти к началу</Russian>
-        <Ukrainian>VПерейти на початок</Ukrainian>
+        <Russian>Перейти в начало</Russian>
+        <Ukrainian>Перейти на початок</Ukrainian>
         <Portuguese>Ir para Origem</Portuguese>
         <French>Retour au point d&apos;origine</French>
         <Spanish>Volver al origen</Spanish>
@@ -3385,8 +3385,8 @@
         <Japanese/>
         <Korean>표식</Korean>
         <Turkish>Kimlik</Turkish>
-        <Russian>Id</Russian>
-        <Ukrainian>Id</Ukrainian>
+        <Russian>ID</Russian>
+        <Ukrainian>ID</Ukrainian>
         <Portuguese>Id</Portuguese>
         <French>LOGO</French>
         <Spanish>ID</Spanish>
@@ -6229,8 +6229,8 @@
         <Japanese/>
         <Korean>레지스터</Korean>
         <Turkish>Kay齮 Etmek</Turkish>
-        <Russian>Регистр</Russian>
-        <Ukrainian>Регістр</Ukrainian>
+        <Russian>Приводка</Russian>
+        <Ukrainian>Приводка</Ukrainian>
         <Portuguese>Registro</Portuguese>
         <French>Registre</French>
         <Spanish>Registro</Spanish>
@@ -6421,8 +6421,8 @@
         <Japanese/>
         <Korean>Rip</Korean>
         <Turkish>Rip</Turkish>
-        <Russian>Rip</Russian>
-        <Ukrainian>Rip</Ukrainian>
+        <Russian>RIP</Russian>
+        <Ukrainian>RIP</Ukrainian>
         <Portuguese>Rip</Portuguese>
         <French>Rip</French>
         <Spanish>Rip</Spanish>
@@ -6517,8 +6517,8 @@
         <Japanese/>
         <Korean/>
         <Turkish/>
-        <Russian>Russian</Russian>
-        <Ukrainian>Russian</Ukrainian>
+        <Russian>Русский</Russian>
+        <Ukrainian>Російська</Ukrainian>
         <Portuguese>Russo</Portuguese>
         <French>Le russe</French>
         <Spanish/>
@@ -7221,8 +7221,8 @@
         <Japanese/>
         <Korean>스텝 보정</Korean>
         <Turkish>Ad齧 Duzeltme</Turkish>
-        <Russian>Коррекция шага/ступени</Russian>
-        <Ukrainian>Корекція кроку/ступеня</Ukrainian>
+        <Russian>Коррекция шага</Russian>
+        <Ukrainian>Корекція кроку</Ukrainian>
         <Portuguese>Correcao de Passo</Portuguese>
         <French>Correction pas à pas</French>
         <Spanish>Corrección de paso</Spanish>
@@ -7237,8 +7237,8 @@
         <Japanese/>
         <Korean>숙제 뒤의 빈 페이지를 입력합니다</Korean>
         <Turkish>Son Beyaz is icin Ad齧</Turkish>
-        <Russian>Шаг к Job Last White</Russian>
-        <Ukrainian>Крок до Job Last White</Ukrainian>
+        <Russian>Шаг для последнего белого</Russian>
+        <Ukrainian>Крок для останнього білого</Ukrainian>
         <Portuguese>Espaco Branco apos trabalho</Portuguese>
         <French>Alimentation du papier, pour l&apos;espace vierge après le travail</French>
         <Spanish>Avanzar papel, para el espacio en blanco después del trabajo</Spanish>
@@ -8370,8 +8370,8 @@
         <Japanese/>
         <Korean>폐 잉크</Korean>
         <Turkish>Atik Murekkep</Turkish>
-        <Russian>Расход чернил</Russian>
-        <Ukrainian>Витрата чорнил</Ukrainian>
+        <Russian>Отработанные чернила</Russian>
+        <Ukrainian>Відпрацьовані чорнила</Ukrainian>
         <Portuguese>Descarte</Portuguese>
         <French>Déchets d&apos;encre</French>
         <Spanish>Tinta de desecho</Spanish>

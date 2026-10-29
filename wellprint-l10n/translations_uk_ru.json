@@ -966,8 +966,8 @@
  },
  "GotoOrigin": {
   "en": "Goto Origin",
-  "uk": "VПерейти на початок",
-  "ru": "Перейти к началу"
+  "uk": "Перейти на початок",
+  "ru": "Перейти в начало"
  },
  "Greater_than_the_acceleration_distance": {
   "en": "Greater than the acceleration distance",
@@ -1056,8 +1056,8 @@
  },
  "Id": {
   "en": "Id",
-  "uk": "Id",
-  "ru": "Id"
+  "uk": "ID",
+  "ru": "ID"
  },
  "Idle": {
   "en": "Idle",
@@ -1946,8 +1946,8 @@
  },
  "Register": {
   "en": "Register",
-  "uk": "Регістр",
-  "ru": "Регистр"
+  "uk": "Приводка",
+  "ru": "Приводка"
  },
  "Relationship": {
   "en": "Relationship",
@@ -2006,8 +2006,8 @@
  },
  "Rip": {
   "en": "Rip",
-  "uk": "Rip",
-  "ru": "Rip"
+  "uk": "RIP",
+  "ru": "RIP"
  },
  "Ripple": {
   "en": "Ripple",
@@ -2036,8 +2036,8 @@
  },
  "Russian": {
   "en": "Russian",
-  "uk": "Russian",
-  "ru": "Russian"
+  "uk": "Російська",
+  "ru": "Русский"
  },
  "Saturation": {
   "en": "Saturation",
@@ -2256,13 +2256,13 @@
  },
  "Step_Correction": {
   "en": "Step Correction",
-  "uk": "Корекція кроку/ступеня",
-  "ru": "Коррекция шага/ступени"
+  "uk": "Корекція кроку",
+  "ru": "Коррекция шага"
  },
  "Step_For_Job_Last_White": {
   "en": "Step for Job Last White",
-  "uk": "Крок до Job Last White",
-  "ru": "Шаг к Job Last White"
+  "uk": "Крок для останнього білого",
+  "ru": "Шаг для последнего белого"
  },
  "Step_Value": {
   "en": "Step Value",
@@ -2616,8 +2616,8 @@
  },
  "Waste_Ink": {
   "en": "Waste Ink",
-  "uk": "Витрата чорнил",
-  "ru": "Расход чернил"
+  "uk": "Відпрацьовані чорнила",
+  "ru": "Отработанные чернила"
  },
  "Waveform": {
   "en": "Waveform",
