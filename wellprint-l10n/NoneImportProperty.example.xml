@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GB2312"?>
+<CustomSerializeNode Version="1">
+  <SLanguageParam>
+    <vecLanguage>English,Chinese_Simplified,Ukrainian,Russian</vecLanguage>
+    <next>Ukrainian</next>
+  </SLanguageParam>
+</CustomSerializeNode>

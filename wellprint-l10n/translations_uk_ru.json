@@ -1,0 +1,2707 @@
+{
+ "Abandon": {
+  "en": "Abandon",
+  "uk": "Залишити",
+  "ru": "Покинуть"
+ },
+ "Abnormal": {
+  "en": "Abnormal",
+  "uk": "Аномальний",
+  "ru": "Аномальный"
+ },
+ "Abort": {
+  "en": "Abort",
+  "uk": "Перервати",
+  "ru": "Прервать"
+ },
+ "About": {
+  "en": "About",
+  "uk": "Докладніше",
+  "ru": "Подробнее"
+ },
+ "Absorb_Ink_Of_Head": {
+  "en": "Pump Ink Of Head",
+  "uk": "Насос відкачки чорнил з голови",
+  "ru": "Насос откачки чернил с головы"
+ },
+ "Absorb_Ink_Of_Tray": {
+  "en": "Pump Ink Of Tray",
+  "uk": "Насос відкачки чорнила ( парковка )",
+  "ru": "Насос откачки чернил ( парковка )"
+ },
+ "Accelerate": {
+  "en": "Accelerate",
+  "uk": "Прискорення",
+  "ru": "Ускорение"
+ },
+ "Action": {
+  "en": "Action",
+  "uk": "Дія",
+  "ru": "Действие"
+ },
+ "Actual": {
+  "en": "Actual",
+  "uk": "Актуальний",
+  "ru": "Актуальний"
+ },
+ "Add": {
+  "en": "Add",
+  "uk": "Додати ",
+  "ru": "Добавить"
+ },
+ "Add_Job": {
+  "en": "Add Job",
+  "uk": "Додати задачу",
+  "ru": "Добавить задачу"
+ },
+ "Address": {
+  "en": "Address",
+  "uk": "Адреса",
+  "ru": "Адрес"
+ },
+ "Adjust": {
+  "en": "Adjust",
+  "uk": "Регулювання",
+  "ru": "Регулировка"
+ },
+ "Advanced": {
+  "en": "Advanced",
+  "uk": "Просунутий",
+  "ru": "Продвинутый"
+ },
+ "After_Print": {
+  "en": "After Print",
+  "uk": "Після друку:",
+  "ru": "После печати:"
+ },
+ "Alignment": {
+  "en": "Alignment",
+  "uk": "Вирівнювання ",
+  "ru": "Выравнивание"
+ },
+ "All": {
+  "en": "All",
+  "uk": "Все",
+  "ru": "Все"
+ },
+ "Angle": {
+  "en": "Angle",
+  "uk": "Кут",
+  "ru": "Угол"
+ },
+ "Annotation": {
+  "en": "Annotation",
+  "uk": "Анотація ",
+  "ru": "Аннотация"
+ },
+ "Anticlockwise": {
+  "en": "Anticlockwise",
+  "uk": "Проти годинникової",
+  "ru": "Против часовой"
+ },
+ "Any": {
+  "en": "Any",
+  "uk": "Будь який",
+  "ru": "Любой"
+ },
+ "Application": {
+  "en": "Application",
+  "uk": "Застосунок",
+  "ru": "Приложение"
+ },
+ "Apply": {
+  "en": "Apply",
+  "uk": "Застосувати",
+  "ru": "Применить"
+ },
+ "Apply_And_Print": {
+  "en": "Apply_Print",
+  "uk": "Застосувати друк",
+  "ru": "Применить печать"
+ },
+ "Area": {
+  "en": "Area",
+  "uk": "Площа",
+  "ru": "Площадь"
+ },
+ "Average": {
+  "en": "Average",
+  "uk": "Середній",
+  "ru": "Средний"
+ },
+ "Axis": {
+  "en": "Axis",
+  "uk": "Вісь",
+  "ru": "Ось"
+ },
+ "Authorization": {
+  "en": "Authorization",
+  "uk": "Авторизація ",
+  "ru": "Авторизация"
+ },
+ "Authorized_Time_Is_Used_Up": {
+  "en": "Authorized Time Is Used Up",
+  "uk": "Час авторизації минув",
+  "ru": "Время авторизации истекло"
+ },
+ "Auto": {
+  "en": "Auto",
+  "uk": "Авто ",
+  "ru": "Авто"
+ },
+ "Automatic": {
+  "en": "Automatic",
+  "uk": "Автоматичний",
+  "ru": "Автоматический"
+ },
+ "AirExhaust": {
+  "en": "AirExhaust",
+  "uk": "Витяжка",
+  "ru": "Вытяжка"
+ },
+ "Back": {
+  "en": "Back",
+  "uk": "Назад",
+  "ru": "Назад"
+ },
+ "Big": {
+  "en": "Big",
+  "uk": "Велика",
+  "ru": "Большая"
+ },
+ "Backward": {
+  "en": "Backward",
+  "uk": "Назад",
+  "ru": "Назад"
+ },
+ "Barcode": {
+  "en": "Barcode",
+  "uk": "Штрих код",
+  "ru": "Штрих-код"
+ },
+ "Base": {
+  "en": "Base",
+  "uk": "База",
+  "ru": "База"
+ },
+ "Base_Value_2_Step_Value_Are_You_Sure": {
+  "en": "Use the base value replace to the current step value. Are you sure?",
+  "uk": "Використати базове значення для замінити поточного значення кроку Ви впевнені",
+  "ru": "Использовать базовое значение для замены текущего значения шага Вы уверены"
+ },
+ "Basic": {
+  "en": "Basic",
+  "uk": "Базовий",
+  "ru": "Базовый "
+ },
+ "Before_Print": {
+  "en": "Before Print",
+  "uk": "Перед друком",
+  "ru": "Перед печатью"
+ },
+ "Bidirection": {
+  "en": "Bidirection",
+  "uk": "Bidirection",
+  "ru": "Bidirection"
+ },
+ "Bidirection_Correction": {
+  "en": "Bidirection Correction",
+  "uk": "Корекція двонаправленості",
+  "ru": "Коррекция двунаправленности"
+ },
+ "Bit_Depth": {
+  "en": "Bit Depth",
+  "uk": "Глибина кольору",
+  "ru": "Глубина цвета"
+ },
+ "Black": {
+  "en": "Black",
+  "uk": "Чорний",
+  "ru": "Черный"
+ },
+ "Block": {
+  "en": "Block",
+  "uk": "Заблокувати",
+  "ru": "Заблокировать"
+ },
+ "Board": {
+  "en": "Board",
+  "uk": "Плата",
+  "ru": "Плата"
+ },
+ "Board_Mac": {
+  "en": "Board Mac",
+  "uk": "Плата mac",
+  "ru": "Плата mac"
+ },
+ "Both_Side": {
+  "en": "Both",
+  "uk": "Обидва",
+  "ru": "Оба"
+ },
+ "Bottom": {
+  "en": "Bottom",
+  "uk": "Нижній",
+  "ru": "Нижний"
+ },
+ "Brightness": {
+  "en": "Brightness",
+  "uk": "Яскравість ",
+  "ru": "Яркость"
+ },
+ "Brush": {
+  "en": "Brush",
+  "uk": "Пензлик",
+  "ru": "Кисть"
+ },
+ "Build_Time": {
+  "en": "Build Time",
+  "uk": "Час збірки",
+  "ru": "Время сборки"
+ },
+ "Busy": {
+  "en": "Busy",
+  "uk": "Зайнятий",
+  "ru": "Занят"
+ },
+ "Calculate": {
+  "en": "Calculate",
+  "uk": "Підрахувати",
+  "ru": "Подсчитать"
+ },
+ "Calibration": {
+  "en": "Calibration",
+  "uk": "Калібрування",
+  "ru": "Калибровка"
+ },
+ "Cancel": {
+  "en": "Cancel",
+  "uk": "Відмінити",
+  "ru": "Отменить"
+ },
+ "Cancel_Area": {
+  "en": "Cancel Area",
+  "uk": "Відмінити область",
+  "ru": "Отменить область"
+ },
+ "Cart": {
+  "en": "Cart",
+  "uk": "Кошик",
+  "ru": "Корзина"
+ },
+ "Centimeter": {
+  "en": "Centimeter",
+  "uk": "Сантиметр",
+  "ru": "Сантиметр"
+ },
+ "Channel": {
+  "en": "Channel",
+  "uk": "Канал",
+  "ru": "Канал"
+ },
+ "Check": {
+  "en": "Check",
+  "uk": "Check",
+  "ru": "Check"
+ },
+ "Chinese_Simplified": {
+  "en": "Chinese Simplified",
+  "uk": "Китайська спрощена",
+  "ru": "Китайский упрощенный"
+ },
+ "Chinese_Traditional": {
+  "en": "Chinese Traditional",
+  "uk": "Китайська традиційна",
+  "ru": "Китайский традиционный"
+ },
+ "Clean": {
+  "en": "Clean",
+  "uk": "Прочистка",
+  "ru": "Прочистка"
+ },
+ "Clear": {
+  "en": "Clear",
+  "uk": "Чистий",
+  "ru": "Чистый"
+ },
+ "Clean_Before_Print": {
+  "en": "Clean Before Print",
+  "uk": "Прочистка перед друком",
+  "ru": "Прочистка перед печатью"
+ },
+ "Clean_Operation_List": {
+  "en": "Clean Operation List",
+  "uk": "Списки варіантів прочистки",
+  "ru": "Список вариантов прочистки"
+ },
+ "Clean_When_Print": {
+  "en": "Clean When Print",
+  "uk": "Прочистка під час друку",
+  "ru": "Прочистка во время печати"
+ },
+ "Clean_When_Ready": {
+  "en": "Clean When Ready",
+  "uk": "Прочистка коли готовий до друку",
+  "ru": "Прочистка когда готов к печати"
+ },
+ "Clockwise": {
+  "en": "Clockwise",
+  "uk": "За годинниковою",
+  "ru": "По часовой"
+ },
+ "Close": {
+  "en": "Close",
+  "uk": "Закрити",
+  "ru": "Закрыть"
+ },
+ "Color": {
+  "en": "Color",
+  "uk": "Колір",
+  "ru": "Цвет"
+ },
+ "Color_Alignment": {
+  "en": "Color Alignment",
+  "uk": "Color Alignment",
+  "ru": "Color Alignment"
+ },
+ "Color_Correction": {
+  "en": "Color Correction",
+  "uk": "Корекція кольору",
+  "ru": "Коррекция цвета"
+ },
+ "Colors": {
+  "en": "Colors",
+  "uk": "Кольори",
+  "ru": "Цвета"
+ },
+ "Column": {
+  "en": "Column",
+  "uk": "Відступ Колонки",
+  "ru": "Отступ Колонки"
+ },
+ "Command": {
+  "en": "Command",
+  "uk": "Команда ",
+  "ru": "Команда "
+ },
+ "Communicate": {
+  "en": "Communicate",
+  "uk": "Звʼязатися",
+  "ru": "Связаться"
+ },
+ "Complete": {
+  "en": "Complete",
+  "uk": "Завершити",
+  "ru": "Завершить"
+ },
+ "Condition": {
+  "en": "Condition",
+  "uk": "Стан",
+  "ru": "Состояние"
+ },
+ "Config": {
+  "en": "Config",
+  "uk": "Налаштування",
+  "ru": "Настройка"
+ },
+ "Confirm": {
+  "en": "Confirm",
+  "uk": "Підтвердити",
+  "ru": "Подтвердить"
+ },
+ "Connect": {
+  "en": "Connect",
+  "uk": "Підключити ",
+  "ru": "Подключить"
+ },
+ "Consecutive": {
+  "en": "Consecutive",
+  "uk": "Послідовний",
+  "ru": "Последовательный"
+ },
+ "Content": {
+  "en": "Content",
+  "uk": "Зміст",
+  "ru": "Содержание"
+ },
+ "Continue": {
+  "en": "Continue",
+  "uk": "Продовжити",
+  "ru": "Продолжить"
+ },
+ "Contrast": {
+  "en": "Contrast",
+  "uk": "Контраст",
+  "ru": "Контраст"
+ },
+ "Convert": {
+  "en": "Convert",
+  "uk": "Конвертувати",
+  "ru": "Конвертировать"
+ },
+ "Copy": {
+  "en": "Copy",
+  "uk": "Скопіювати",
+  "ru": "Скопировать"
+ },
+ "Copy_To": {
+  "en": "Copy To",
+  "uk": "Скопіювати до",
+  "ru": "Скопировать в"
+ },
+ "Copies": {
+  "en": "Copies",
+  "uk": "Копії",
+  "ru": "Копии"
+ },
+ "Cost": {
+  "en": "Cost",
+  "uk": "Вартість",
+  "ru": "Стоимость"
+ },
+ "Count": {
+  "en": "Count",
+  "uk": "тесту",
+  "ru": "теста"
+ },
+ "Cross_Flag": {
+  "en": "Cross Flag",
+  "uk": "Перехресний флаг",
+  "ru": "Перекрестный флаг"
+ },
+ "Current": {
+  "en": "Current",
+  "uk": "Поточне",
+  "ru": "Текущее"
+ },
+ "Curve": {
+  "en": "Curve",
+  "uk": "Крива",
+  "ru": "Кривая"
+ },
+ "Custom": {
+  "en": "Custom",
+  "uk": "Кастомізувати",
+  "ru": "Кастомизировать"
+ },
+ "Custom_Wait_Print_Start_Signal": {
+  "en": "",
+  "uk": "",
+  "ru": ""
+ },
+ "Cut_Paper": {
+  "en": "Cutting",
+  "uk": "Відрізати папір",
+  "ru": "Отрезать бумагу"
+ },
+ "Cycle": {
+  "en": "Cycle",
+  "uk": "Цикл",
+  "ru": "Цикл"
+ },
+ "Color_White": {
+  "en": "Color White",
+  "uk": "CMYK",
+  "ru": "CMYK"
+ },
+ "CCD_Scaning": {
+  "en": "CCD Scaning",
+  "uk": "Сканування CCD",
+  "ru": "Сканирование CCD"
+ },
+ "Data": {
+  "en": "Data",
+  "uk": "Дані",
+  "ru": "CMYK"
+ },
+ "Date": {
+  "en": "Date",
+  "uk": "Дата",
+  "ru": "Дата"
+ },
+ "Date_Of_Manufacture": {
+  "en": "Date Of Manufacture",
+  "uk": "Дата виробництва",
+  "ru": "Дата производства"
+ },
+ "Day": {
+  "en": "Day",
+  "uk": "День",
+  "ru": "День"
+ },
+ "Debug": {
+  "en": "Debug",
+  "uk": "тест",
+  "ru": "тест"
+ },
+ "Dec": {
+  "en": "Dec",
+  "uk": "Грудень",
+  "ru": "Декабрь"
+ },
+ "Decrypt": {
+  "en": "Decrypt",
+  "uk": "Розшифрувати",
+  "ru": "Расшифровать"
+ },
+ "Deep": {
+  "en": "Deep",
+  "uk": "Глибокий",
+  "ru": "Глубокий"
+ },
+ "Default": {
+  "en": "Default",
+  "uk": "За замовчуванням",
+  "ru": "По умолчанию"
+ },
+ "Delay": {
+  "en": "Delay",
+  "uk": "Затримка",
+  "ru": "Задержка"
+ },
+ "Delete": {
+  "en": "Delete",
+  "uk": "Видалити",
+  "ru": "Удалить"
+ },
+ "Delete_Job_File_After_Print": {
+  "en": "Delete Job File After Print",
+  "uk": "Видалити робочий файл після друку",
+  "ru": "Удалить рабочий файл после печати"
+ },
+ "Density": {
+  "en": "Density",
+  "uk": "Щільність",
+  "ru": "Плотность"
+ },
+ "Description": {
+  "en": "Description",
+  "uk": "Опис",
+  "ru": "Описание"
+ },
+ "Desktop": {
+  "en": "Desktop",
+  "uk": "Робочий стіл",
+  "ru": "Рабочий стол"
+ },
+ "Destination": {
+  "en": "Destination",
+  "uk": "Місце призначення",
+  "ru": "Место назначения"
+ },
+ "Detail": {
+  "en": "Detail",
+  "uk": "Деталь",
+  "ru": "Деталь"
+ },
+ "Device": {
+  "en": "Device",
+  "uk": "Пристрій",
+  "ru": "Устройство"
+ },
+ "Direction": {
+  "en": "Direction",
+  "uk": "напрямок",
+  "ru": "направление"
+ },
+ "Directory": {
+  "en": "Directory",
+  "uk": "Директорія",
+  "ru": "Директория"
+ },
+ "Distance": {
+  "en": "Distance",
+  "uk": "Дистанція",
+  "ru": "Дистанция"
+ },
+ "Dongle": {
+  "en": "Dongle",
+  "uk": "Ключ",
+  "ru": "Ключ"
+ },
+ "Down": {
+  "en": "Down",
+  "uk": "Вниз",
+  "ru": "Вниз"
+ },
+ "Dot": {
+  "en": "Dot",
+  "uk": "Крапля",
+  "ru": "Капля"
+ },
+ "Double_Print": {
+  "en": "Double Print",
+  "uk": "Подвійний друк",
+  "ru": "Двойная печать"
+ },
+ "Double_Y_Cylinder_Print": {
+  "en": "DoubleY Cylinder Print",
+  "uk": "Подвійний циліндричний друк Y",
+  "ru": "Двойная цилиндрическая печать Y"
+ },
+ "Download": {
+  "en": "Download",
+  "uk": "Завантажити",
+  "ru": "Скачать"
+ },
+ "Drive": {
+  "en": "Drive",
+  "uk": "Приводити в рух",
+  "ru": "Приводить в движение"
+ },
+ "Driver": {
+  "en": "Driver",
+  "uk": "Драйвер",
+  "ru": "Драйвер"
+ },
+ "Drying": {
+  "en": "Drying",
+  "uk": "Сушка",
+  "ru": "Сушка"
+ },
+ "Dual_Tube_Mode": {
+  "en": "Dual Tube Sensor Mode",
+  "uk": "Режим датчика подвійної трубки",
+  "ru": "Режим датчика двойной трубки"
+ },
+ "Dual_Tube_Mode_Platform": {
+  "en": "Platform(Go Up And Down)",
+  "uk": "Платформа (вгору/вниз)",
+  "ru": "Платформа (вверх/вниз)"
+ },
+ "Dual_Tube_Mode_Beam": {
+  "en": "Beam(Go Up And Down)",
+  "uk": "Промінь (вгору/вниз)",
+  "ru": "Луч (вверх/вниз)"
+ },
+ "Duplicate": {
+  "en": "Duplicate",
+  "uk": "Дублювати",
+  "ru": "Дублировать"
+ },
+ "Duration": {
+  "en": "Duration",
+  "uk": "Тривалість",
+  "ru": "Продолжительность"
+ },
+ "Edge": {
+  "en": "Edge",
+  "uk": "Кут",
+  "ru": "Угол"
+ },
+ "Edit": {
+  "en": "Edit",
+  "uk": "Редагувати",
+  "ru": "Редактировать"
+ },
+ "Efficiency": {
+  "en": "Efficiency",
+  "uk": "Ефективність",
+  "ru": "Эффективность"
+ },
+ "Effective": {
+  "en": "Effective",
+  "uk": "Активна",
+  "ru": "Активна"
+ },
+ "Emergency_Stop": {
+  "en": "Emergency Stop",
+  "uk": "Аварійна зупинка",
+  "ru": "Аварийная остановка"
+ },
+ "Enable": {
+  "en": "Enable",
+  "uk": "Задіяти",
+  "ru": "Задействовать"
+ },
+ "Encoder": {
+  "en": "Encoder",
+  "uk": "Шифратор",
+  "ru": "Шифратор"
+ },
+ "End_Point": {
+  "en": "End Point",
+  "uk": "пункт",
+  "ru": "Конечная точка"
+ },
+ "English": {
+  "en": "English",
+  "uk": "Англійська",
+  "ru": "Английский"
+ },
+ "EPrinterStyle_S01": {
+  "en": "Common",
+  "uk": "Загальний",
+  "ru": "Общий"
+ },
+ "EPrinterStyle_S02": {
+  "en": "Double T-Shirt",
+  "uk": "Подвійна футболка",
+  "ru": "Двойная футболка"
+ },
+ "EPrinterStyle_S03": {
+  "en": "Ellipse",
+  "uk": "Еліпс",
+  "ru": "Эллипс"
+ },
+ "EPrinterStyle_S04": {
+  "en": "S04",
+  "uk": "S04",
+  "ru": "S04"
+ },
+ "EPrinterStyle_S05": {
+  "en": "UV",
+  "uk": "UV",
+  "ru": "UV"
+ },
+ "EPrinterStyle_S06": {
+  "en": "S06",
+  "uk": "S06",
+  "ru": "S06"
+ },
+ "EPrinterStyle_S07": {
+  "en": "S07",
+  "uk": "S07",
+  "ru": "S07"
+ },
+ "Error": {
+  "en": "Error",
+  "uk": "Помилка",
+  "ru": "Ошибка"
+ },
+ "Exceed": {
+  "en": "Exceed",
+  "uk": "Перевищує",
+  "ru": "Превышает"
+ },
+ "Execute": {
+  "en": "Execute",
+  "uk": "Виконати",
+  "ru": "Выполнить"
+ },
+ "Exist": {
+  "en": "Exist",
+  "uk": "Існує",
+  "ru": "Существует"
+ },
+ "Exit": {
+  "en": "Exit",
+  "uk": "Закрити",
+  "ru": "Закрыть"
+ },
+ "Exiting": {
+  "en": "Exiting",
+  "uk": "Вихід",
+  "ru": "Выход"
+ },
+ "Expiration_Date": {
+  "en": "Expiration Date",
+  "uk": "Термін придатності",
+  "ru": "Срок годности"
+ },
+ "Export": {
+  "en": "Export",
+  "uk": "Зберегти",
+  "ru": "Сохранить"
+ },
+ "External": {
+  "en": "External",
+  "uk": "Зовнішній",
+  "ru": "Внешний"
+ },
+ "Each_Copy": {
+  "en": "Each Copy",
+  "uk": "Зовнішній",
+  "ru": "Внешний"
+ },
+ "ElectricEye": {
+  "en": "ElectricEye",
+  "uk": "Зовнішній",
+  "ru": "Внешний"
+ },
+ "Factory": {
+  "en": "Factory",
+  "uk": "Фабрика",
+  "ru": "Фабрика"
+ },
+ "Failure": {
+  "en": "Failure",
+  "uk": "Помилка",
+  "ru": "Ошибка"
+ },
+ "Falling": {
+  "en": "Falling",
+  "uk": "Падіння",
+  "ru": "Падение"
+ },
+ "Fast": {
+  "en": "Fast",
+  "uk": "Швидкий",
+  "ru": "Быстрый"
+ },
+ "Feather": {
+  "en": "Feather",
+  "uk": "Фезер",
+  "ru": "Фезер"
+ },
+ "Feet": {
+  "en": "Feet",
+  "uk": "фути",
+  "ru": "Ноги/футы"
+ },
+ "File": {
+  "en": "File",
+  "uk": "Файл",
+  "ru": "Файл"
+ },
+ "Filter": {
+  "en": "Filter",
+  "uk": "Фільтр",
+  "ru": "Фильтр"
+ },
+ "Find": {
+  "en": "Find",
+  "uk": "Знайти",
+  "ru": "Найти"
+ },
+ "Firmware": {
+  "en": "Firmware",
+  "uk": "Прошивка",
+  "ru": "Прошивка"
+ },
+ "First": {
+  "en": "First",
+  "uk": "Перший",
+  "ru": "Первый"
+ },
+ "FirstPage": {
+  "en": "FirstPage",
+  "uk": "Перший",
+  "ru": "Первый"
+ },
+ "First_Period": {
+  "en": "First Period",
+  "uk": "Перший період",
+  "ru": "Первый период"
+ },
+ "Fixed": {
+  "en": "Fixed",
+  "uk": "Виправлено",
+  "ru": "Исправлено"
+ },
+ "Flag": {
+  "en": "Flag",
+  "uk": "Колонок",
+  "ru": "Колонок"
+ },
+ "Font": {
+  "en": "Font",
+  "uk": "Шрифт",
+  "ru": "Шрифт"
+ },
+ "Format": {
+  "en": "Format",
+  "uk": "Формат",
+  "ru": "Формат"
+ },
+ "Forward": {
+  "en": "Forward",
+  "uk": "Вперед",
+  "ru": "Вперед"
+ },
+ "French": {
+  "en": "French",
+  "uk": "Французька",
+  "ru": "Французский"
+ },
+ "Frequency": {
+  "en": "Frequency",
+  "uk": "Частота",
+  "ru": "Частота"
+ },
+ "From": {
+  "en": "From",
+  "uk": "←",
+  "ru": "←"
+ },
+ "Front": {
+  "en": "Front",
+  "uk": "Передня частина",
+  "ru": "Передняя часть"
+ },
+ "Gear_Ratio": {
+  "en": "Gear Ratio",
+  "uk": "Передаточне число",
+  "ru": "Передаточное число"
+ },
+ "General": {
+  "en": "General",
+  "uk": "Загальний",
+  "ru": "Общий"
+ },
+ "Generate": {
+  "en": "Generate",
+  "uk": "Генерувати",
+  "ru": "Генерировать"
+ },
+ "Global": {
+  "en": "Global",
+  "uk": "Глобальний",
+  "ru": "Глобальный"
+ },
+ "Go_Down": {
+  "en": "Go Up",
+  "uk": "Опустити",
+  "ru": "Опустить"
+ },
+ "Go_Up": {
+  "en": "Go Down",
+  "uk": "Підняти",
+  "ru": "Поднять"
+ },
+ "Go_Up_And_Down": {
+  "en": "Go Up And Down",
+  "uk": "Підняти та опустити",
+  "ru": "Поднять и опустить"
+ },
+ "GotoOrigin": {
+  "en": "Goto Origin",
+  "uk": "VПерейти на початок",
+  "ru": "Перейти к началу"
+ },
+ "Greater_than_the_acceleration_distance": {
+  "en": "Greater than the acceleration distance",
+  "uk": "Більше ніж дистанція прискорення",
+  "ru": "Больше чем дистанция ускорения"
+ },
+ "Group": {
+  "en": "Group",
+  "uk": "Група",
+  "ru": "Группа"
+ },
+ "Guide": {
+  "en": "Guide",
+  "uk": "Керівництво",
+  "ru": "Руководство"
+ },
+ "Hardware": {
+  "en": "Hardware",
+  "uk": "Апаратне забезпечення",
+  "ru": "Аппаратное обеспечение"
+ },
+ "Head": {
+  "en": "Head",
+  "uk": "Відступ Голови",
+  "ru": "Отступ Головы"
+ },
+ "Head_Board": {
+  "en": "Head Board",
+  "uk": "Плата голови",
+  "ru": "Плата головы"
+ },
+ "Help": {
+  "en": "Help",
+  "uk": "Допомога",
+  "ru": "Помощь"
+ },
+ "Height": {
+  "en": "Height",
+  "uk": "Висота",
+  "ru": "Высота"
+ },
+ "Hex": {
+  "en": "Hex",
+  "uk": "Шестикутник",
+  "ru": "Шестигранник"
+ },
+ "High": {
+  "en": "High",
+  "uk": "Висока",
+  "ru": "Высокая"
+ },
+ "High_Signal_Enable": {
+  "en": "High Active",
+  "uk": "Висока активність",
+  "ru": "Высокая активность"
+ },
+ "History": {
+  "en": "History",
+  "uk": "Історія",
+  "ru": "История"
+ },
+ "Home": {
+  "en": "Home",
+  "uk": "Додому",
+  "ru": "Домой"
+ },
+ "Horizontal": {
+  "en": "Horizontal",
+  "uk": "Горизонтальний",
+  "ru": "Горизонтальный"
+ },
+ "Horizontal_2": {
+  "en": "Horizontal",
+  "uk": "Горизонтальний 2",
+  "ru": "Горизонтальный 2"
+ },
+ "Hot_Folder": {
+  "en": "Hot Folder",
+  "uk": "Гаряча папка",
+  "ru": "Горячая папка"
+ },
+ "Hour": {
+  "en": "Hour",
+  "uk": "Година",
+  "ru": "Час"
+ },
+ "Id": {
+  "en": "Id",
+  "uk": "Id",
+  "ru": "Id"
+ },
+ "Idle": {
+  "en": "Idle",
+  "uk": "Час очікування",
+  "ru": "Время ожидания"
+ },
+ "Image": {
+  "en": "Image",
+  "uk": "Зображення",
+  "ru": "Изображение"
+ },
+ "Import": {
+  "en": "Import",
+  "uk": "Завантажити",
+  "ru": "Загрузить"
+ },
+ "Inch": {
+  "en": "Inch",
+  "uk": "Дюйм",
+  "ru": "Дюйм"
+ },
+ "Inching": {
+  "en": "Inching",
+  "uk": "Повільне просування",
+  "ru": "Медленное продвижение"
+ },
+ "Indefinite": {
+  "en": "Indefinite",
+  "uk": "Невизначений",
+  "ru": "Неопределенный"
+ },
+ "Information": {
+  "en": "Information",
+  "uk": "Інформація",
+  "ru": "Информация"
+ },
+ "Initialize": {
+  "en": "Initialize",
+  "uk": "Ініціалізувати",
+  "ru": "Инициализировать"
+ },
+ "Ink": {
+  "en": "Ink",
+  "uk": "Чорнила",
+  "ru": "Чернила"
+ },
+ "Ink_Channel_Config": {
+  "en": "Ink Channel Config",
+  "uk": "Налаштування каналу чорнил",
+  "ru": "Настройка канала чернил"
+ },
+ "Ink_Density": {
+  "en": "Ink Density",
+  "uk": "Щільність чорнил",
+  "ru": "Плотность чернил"
+ },
+ "Ink_Dot": {
+  "en": "Ink Dot",
+  "uk": "Чорнильна крапля",
+  "ru": "Чернильная капля"
+ },
+ "Ink_Multiples": {
+  "en": "Ink Multiples",
+  "uk": "Кількість шарів",
+  "ru": "Количество слоёв"
+ },
+ "Ink_Pump": {
+  "en": "Ink Pump",
+  "uk": "Насос чорнил",
+  "ru": "Насос чернил"
+ },
+ "Ink_Quantity": {
+  "en": "Ink_Quantity",
+  "uk": "Кількість чорнил",
+  "ru": "Количество чернил"
+ },
+ "Ink_Stripe": {
+  "en": "Color Bar",
+  "uk": "Полоса кольорів",
+  "ru": "Цветовая полоса"
+ },
+ "Ink_Tank": {
+  "en": "Ink Tank",
+  "uk": "Резервуар чорнил",
+  "ru": "Резервуар чернил"
+ },
+ "Ink_Tray": {
+  "en": "Ink Tray",
+  "uk": "Вузол паркування",
+  "ru": "Парковочный узел"
+ },
+ "Ink_Tray_Impact": {
+  "en": "Ink Tray",
+  "uk": "Взаємодія с вузолом паркування",
+  "ru": "Взаимодействие с парковочным узлом"
+ },
+ "Ink_Tray_Up_Down": {
+  "en": "Ink Tray",
+  "uk": "Підняття вузла паркування",
+  "ru": "Поднятие парковочного узла"
+ },
+ "Ink_Water": {
+  "en": "Ink",
+  "uk": "Вода для чорнил",
+  "ru": "Вода для чернил"
+ },
+ "Input": {
+  "en": "Input",
+  "uk": "Введення",
+  "ru": "Ввод"
+ },
+ "Inside": {
+  "en": "Inside",
+  "uk": "Всередині",
+  "ru": "Внутри"
+ },
+ "Install": {
+  "en": "Install",
+  "uk": "Встановити",
+  "ru": "Установить"
+ },
+ "Internal": {
+  "en": "Internal",
+  "uk": "Внутрішній",
+  "ru": "Внутренний"
+ },
+ "Intersection": {
+  "en": "Intersection",
+  "uk": "Перетин каналів",
+  "ru": "Пересечение каналов"
+ },
+ "Interval": {
+  "en": "Interval",
+  "uk": "Інтервал",
+  "ru": "Интервал"
+ },
+ "Invalid": {
+  "en": "Invalid",
+  "uk": "Невірний",
+  "ru": "Неверный"
+ },
+ "Invert": {
+  "en": "Invert",
+  "uk": "Інверсія",
+  "ru": "Инверсия"
+ },
+ "Japanese": {
+  "en": "Japanese",
+  "uk": "Японська",
+  "ru": "Японский"
+ },
+ "Job": {
+  "en": "Job",
+  "uk": "Робота",
+  "ru": "Работа"
+ },
+ "Jump_White": {
+  "en": "Jump White",
+  "uk": "Перейти в білий",
+  "ru": "Перейти в белый"
+ },
+ "Korean": {
+  "en": "Korean",
+  "uk": "Корейська",
+  "ru": "Корейский"
+ },
+ "Ladder": {
+  "en": "Ladder",
+  "uk": "Драбина",
+  "ru": "Лестница"
+ },
+ "Lamp": {
+  "en": "Lamp",
+  "uk": "Лампа",
+  "ru": "Лампа"
+ },
+ "Language": {
+  "en": "Language",
+  "uk": "Мова",
+  "ru": "Язык"
+ },
+ "LastPage": {
+  "en": "LastPage",
+  "uk": "Мова",
+  "ru": "Язык"
+ },
+ "Layer": {
+  "en": "Layer",
+  "uk": "Шар",
+  "ru": "Слой"
+ },
+ "Left": {
+  "en": "Left",
+  "uk": "Left",
+  "ru": "Left"
+ },
+ "Left_To_Right": {
+  "en": "Left To Right",
+  "uk": "Зліва направо",
+  "ru": "Слева направо"
+ },
+ "Length": {
+  "en": "Length",
+  "uk": " ",
+  "ru": " "
+ },
+ "Level": {
+  "en": "Level",
+  "uk": "Рівень",
+  "ru": "Уровень"
+ },
+ "Limit_Position": {
+  "en": "Limit",
+  "uk": "Гранична позиція",
+  "ru": "Предельная позиция"
+ },
+ "Limited_Position_Sensor": {
+  "en": "Limited Position Sensor",
+  "uk": "Гранична позиція сенсора",
+  "ru": "Предельная позиция сенсора"
+ },
+ "Line": {
+  "en": "Line",
+  "uk": "Лінія",
+  "ru": "Линия"
+ },
+ "List": {
+  "en": "List",
+  "uk": "Список",
+  "ru": "Список"
+ },
+ "Load": {
+  "en": "Load",
+  "uk": "Завантаження",
+  "ru": "Загрузка"
+ },
+ "Load_Ink": {
+  "en": "Load Ink",
+  "uk": "Завантаження чорнил",
+  "ru": "Загрузка чернил"
+ },
+ "Lock": {
+  "en": "Lock",
+  "uk": "зачинити",
+  "ru": "Замкнуть/закрыть"
+ },
+ "Log": {
+  "en": "Log",
+  "uk": "Журнал",
+  "ru": "Журнал"
+ },
+ "Loop": {
+  "en": "Loop",
+  "uk": "Цикл",
+  "ru": "Цикл"
+ },
+ "Low": {
+  "en": "Low",
+  "uk": "Низький",
+  "ru": "Низкий"
+ },
+ "Low_Signal_Enable": {
+  "en": "Low Active",
+  "uk": "Задіяти низький сигнал",
+  "ru": "Задействовать низкий сигнал"
+ },
+ "Latches": {
+  "en": "Latches",
+  "uk": "Засувки",
+  "ru": "Задвижки"
+ },
+ "Lighting": {
+  "en": "Lighting",
+  "uk": "Підсвітка",
+  "ru": "Подсветка"
+ },
+ "Main_Board": {
+  "en": "Main Board",
+  "uk": "Основна плата",
+  "ru": "Основная плата"
+ },
+ "Maintain": {
+  "en": "Maintain",
+  "uk": "Обслуговування",
+  "ru": "Обслуживание"
+ },
+ "Manual": {
+  "en": "Manual",
+  "uk": "Мануал",
+  "ru": "Мануал"
+ },
+ "Manufacturer": {
+  "en": "Manufacturer",
+  "uk": "Виробник",
+  "ru": "Производитель"
+ },
+ "Margin": {
+  "en": "Margin",
+  "uk": "Відступ",
+  "ru": "Отступ"
+ },
+ "Materials": {
+  "en": "Materials",
+  "uk": "Матеріали",
+  "ru": "Материалы"
+ },
+ "Maximum": {
+  "en": "Maximum",
+  "uk": "Максимум",
+  "ru": "Максимум"
+ },
+ "Measure": {
+  "en": "Measure",
+  "uk": "Виміряти",
+  "ru": "Измерить"
+ },
+ "Mechanical": {
+  "en": "Mechanical",
+  "uk": "Mechanical",
+  "ru": "Mechanical"
+ },
+ "Media": {
+  "en": "Media",
+  "uk": "Медіа",
+  "ru": "Медиа"
+ },
+ "Memo": {
+  "en": "Memo",
+  "uk": "Примітка",
+  "ru": "Заметка"
+ },
+ "Memory": {
+  "en": "Memory",
+  "uk": " ",
+  "ru": " "
+ },
+ "Menu": {
+  "en": "Menu",
+  "uk": "Меню",
+  "ru": "Меню"
+ },
+ "Merge": {
+  "en": "Merge",
+  "uk": "Обʼєднати",
+  "ru": "Объединить"
+ },
+ "Meter": {
+  "en": "Meter",
+  "uk": "Метр",
+  "ru": "Метр"
+ },
+ "Middle": {
+  "en": "Middle",
+  "uk": "Середня",
+  "ru": "Средняя"
+ },
+ "Middle_Feather": {
+  "en": "Middle Feather",
+  "uk": "Середній фезер",
+  "ru": "Средний фезер"
+ },
+ "Millimeter": {
+  "en": "Millimeter",
+  "uk": "мм",
+  "ru": "мм"
+ },
+ "Minimum": {
+  "en": "Minimum",
+  "uk": "Мінімум",
+  "ru": "Минимум"
+ },
+ "Minitrim": {
+  "en": "Minitrim",
+  "uk": "Мінітрім",
+  "ru": "Минитрим"
+ },
+ "Minute": {
+  "en": "Minute",
+  "uk": "Хвилина",
+  "ru": "Минута"
+ },
+ "Mirror": {
+  "en": "Mirror",
+  "uk": "Віддзеркалити",
+  "ru": "Отзеркалить"
+ },
+ "Mismatch": {
+  "en": "Mismatch",
+  "uk": "Невідповідність",
+  "ru": "Несоответствие"
+ },
+ "Mode": {
+  "en": "Mode",
+  "uk": "Режим ",
+  "ru": "Режим"
+ },
+ "Moisturizing": {
+  "en": "Moisturizing",
+  "uk": "Зволоження",
+  "ru": "Увлажнение"
+ },
+ "Motor": {
+  "en": "Motor",
+  "uk": "Motor",
+  "ru": "Motor"
+ },
+ "Motion": {
+  "en": "Motion",
+  "uk": "сторона, рух:",
+  "ru": "сторона, движение:"
+ },
+ "Move": {
+  "en": "Move",
+  "uk": "Рухати",
+  "ru": "Двигать"
+ },
+ "Move_Down": {
+  "en": "Forward",
+  "uk": "Вперед",
+  "ru": "Вперёд"
+ },
+ "Move_Left": {
+  "en": "Left",
+  "uk": "Ліворуч",
+  "ru": "Влево"
+ },
+ "Move_Right": {
+  "en": "Right",
+  "uk": "Праворуч",
+  "ru": "Вправо"
+ },
+ "Move_To": {
+  "en": "Move To",
+  "uk": "Рухати до",
+  "ru": "Двигать к"
+ },
+ "Move_Up": {
+  "en": "Back",
+  "uk": "Назад",
+  "ru": "Назад"
+ },
+ "Multiple_Password": {
+  "en": "Multiple Password",
+  "uk": "Множинний пароль",
+  "ru": "Множественный пароль"
+ },
+ "Name": {
+  "en": "Name",
+  "uk": "Імʼя",
+  "ru": "Имя"
+ },
+ "Network": {
+  "en": "Network",
+  "uk": "Мережа",
+  "ru": "Сеть"
+ },
+ "New": {
+  "en": "New",
+  "uk": "Новий",
+  "ru": "Новый"
+ },
+ "NextPage": {
+  "en": "NextPage",
+  "uk": "Новий",
+  "ru": "Новый"
+ },
+ "No": {
+  "en": "No",
+  "uk": "Ні",
+  "ru": "Нет"
+ },
+ "None": {
+  "en": "None",
+  "uk": "Жоден з запропонованих",
+  "ru": "Никакой из предложенных"
+ },
+ "Normal": {
+  "en": "Normal",
+  "uk": "Нормальний",
+  "ru": "Нормальный"
+ },
+ "Normal_Close": {
+  "en": "NC",
+  "uk": "Нормальний закрито",
+  "ru": "Нормальный закрыто"
+ },
+ "Normal_Open": {
+  "en": "NO",
+  "uk": "Нормальний відкрито",
+  "ru": "Нормальный открыто"
+ },
+ "Nozzle": {
+  "en": "Nozzle",
+  "uk": "Nozzle",
+  "ru": "Nozzle"
+ },
+ "Odd_And_Even_Points": {
+  "en": "Odd And Even Points",
+  "uk": "Парні та непарні точки",
+  "ru": "Чётные и нечётные точки"
+ },
+ "Offline": {
+  "en": "Offline",
+  "uk": "Офлайн",
+  "ru": "Оффлайн"
+ },
+ "Offset": {
+  "en": "Offset",
+  "uk": "Зміщення",
+  "ru": "Смещение"
+ },
+ "OK": {
+  "en": "OK",
+  "uk": "ОК",
+  "ru": "ОК"
+ },
+ "Online": {
+  "en": "Online",
+  "uk": "Онлайн",
+  "ru": "Онлайн"
+ },
+ "Only": {
+  "en": "Only",
+  "uk": "Тільки",
+  "ru": "Только"
+ },
+ "Open": {
+  "en": "Open",
+  "uk": "Відідкрито",
+  "ru": "Отткрыто"
+ },
+ "Operate": {
+  "en": "Operate",
+  "uk": "Відідкрито",
+  "ru": "Отткрыто"
+ },
+ "Option": {
+  "en": "Option",
+  "uk": "Опція",
+  "ru": "Опция"
+ },
+ "Origin": {
+  "en": "Origin",
+  "uk": "Origin",
+  "ru": "Origin"
+ },
+ "Other": {
+  "en": "Other",
+  "uk": "Інший",
+  "ru": "Другой"
+ },
+ "Out_Of_Print_Area": {
+  "en": "Out Of Print Area",
+  "uk": "Поза області друку",
+  "ru": "Вне области печати"
+ },
+ "Output": {
+  "en": "Output",
+  "uk": "Вихід",
+  "ru": "Выход"
+ },
+ "Outside": {
+  "en": "Outside",
+  "uk": "Зовні",
+  "ru": "Снаружи"
+ },
+ "Overlap": {
+  "en": "Overlap",
+  "uk": "Накладення",
+  "ru": "Наложение"
+ },
+ "Page": {
+  "en": "Page",
+  "uk": "Сторінка",
+  "ru": "Страница"
+ },
+ "Page_Count": {
+  "en": "Page Count",
+  "uk": "Нумерація сторінок",
+  "ru": "Нумерация страниц"
+ },
+ "Parallel": {
+  "en": "Parallel",
+  "uk": "Паралель",
+  "ru": "Параллель"
+ },
+ "Parameter": {
+  "en": "Parameter",
+  "uk": "Параметр",
+  "ru": "Параметр"
+ },
+ "Parse": {
+  "en": "Parse",
+  "uk": "Розібрати",
+  "ru": "Разобрать"
+ },
+ "Pass_Interval": {
+  "en": "Pass Interval",
+  "uk": "Інтервал проходу",
+  "ru": "Интервал прохода"
+ },
+ "Password": {
+  "en": "Password",
+  "uk": "Пароль",
+  "ru": "ПарольПароль"
+ },
+ "Path": {
+  "en": "Path",
+  "uk": "Шлях",
+  "ru": "Прервать"
+ },
+ "Pattern_OnePass_HorizonCali": {
+  "en": "Single Pass Mode",
+  "uk": "Режим одного проходу",
+  "ru": "Режим одного прохода"
+ },
+ "Pause": {
+  "en": "Pause",
+  "uk": "Пауза",
+  "ru": "Путь"
+ },
+ "Pc_Hibernate": {
+  "en": "Pc Hibernate",
+  "uk": "Сплячий режим ПК",
+  "ru": "Спящий режим ПК"
+ },
+ "Per": {
+  "en": "Per",
+  "uk": "За",
+  "ru": "За"
+ },
+ "Percent": {
+  "en": "Percent",
+  "uk": "Процент",
+  "ru": "Процент"
+ },
+ "Period_Count": {
+  "en": "Period Count",
+  "uk": "Підрахунок періоду",
+  "ru": "Подсчет периода"
+ },
+ "Period_Time": {
+  "en": "Period Time",
+  "uk": "Час періоду",
+  "ru": "Время периода"
+ },
+ "Peripheral": {
+  "en": "Peripheral",
+  "uk": "Периферійний",
+  "ru": "Периферийный"
+ },
+ "Pixel": {
+  "en": "Pixel",
+  "uk": "Піксель",
+  "ru": "Пиксель"
+ },
+ "Platform": {
+  "en": "Platform",
+  "uk": "Платформа",
+  "ru": "Платформа"
+ },
+ "Please": {
+  "en": "Please",
+  "uk": "Будь ласка",
+  "ru": "Пожалуйста"
+ },
+ "Polarity": {
+  "en": "Polarity",
+  "uk": "Полярність",
+  "ru": "Полярность"
+ },
+ "Port": {
+  "en": "Port",
+  "uk": "Порт",
+  "ru": "Порт"
+ },
+ "Portuguese": {
+  "en": "Portuguese",
+  "uk": "Португальська",
+  "ru": "Португальский"
+ },
+ "Position": {
+  "en": "Position",
+  "uk": "Позиція",
+  "ru": "Позиция"
+ },
+ "Position_After_Print": {
+  "en": "Position After Print",
+  "uk": "Позиція після друку",
+  "ru": "Позиция после печати"
+ },
+ "Position_Difference": {
+  "en": "Position Difference",
+  "uk": "Різниця положення",
+  "ru": "Разница положений"
+ },
+ "Positive": {
+  "en": "Positive",
+  "uk": "Позитивний",
+  "ru": "Положительный"
+ },
+ "Power_cannot_be_cut_off_during_upgrade": {
+  "en": "Power cannot be cut off during upgrade!",
+  "uk": "Не вимикати з мережі під час оновлення!",
+  "ru": "Не отключать питание от сети во время обновления"
+ },
+ "Power_Off": {
+  "en": "Power Off",
+  "uk": "Вимкнути живлення",
+  "ru": "Отключить от питания"
+ },
+ "Preference": {
+  "en": "Preference",
+  "uk": "Уподобання",
+  "ru": "Предпочтение"
+ },
+ "Preheating": {
+  "en": "Preheating",
+  "uk": "Попередній розігрів",
+  "ru": "Предварительный разогрев"
+ },
+ "Prepare": {
+  "en": "Prepare",
+  "uk": "Підготувати",
+  "ru": "Подготовить"
+ },
+ "Preview": {
+  "en": "Preview",
+  "uk": "Попередній перегляд",
+  "ru": "Предпросмотр"
+ },
+ "Previous": {
+  "en": "Previous",
+  "uk": "Попередній",
+  "ru": "Предыдущий"
+ },
+ "PreviousPage": {
+  "en": "PreviousPage",
+  "uk": "Попередній",
+  "ru": "Предыдущий"
+ },
+ "Print": {
+  "en": "Print",
+  "uk": "Друк",
+  "ru": "Печать"
+ },
+ "Print_Area_Statistics": {
+  "en": "Print Area Statistics",
+  "uk": "Статистика площі надрукованного",
+  "ru": "Статистика площади напечатанного"
+ },
+ "Print_Check_Nozzle": {
+  "en": "Print Check Nozzle",
+  "uk": "Надрукувати тест дюз",
+  "ru": "Напечатать тест дюз"
+ },
+ "Print_ColorPosition": {
+  "en": "Color Position",
+  "uk": "Позиція кольору",
+  "ru": "Позиция цвета"
+ },
+ "Print_Copies": {
+  "en": "Print Copies",
+  "uk": "Копії друку",
+  "ru": "Копии печати"
+ },
+ "Print_Everywhere": {
+  "en": "All Area",
+  "uk": "Вся область",
+  "ru": "Вся область"
+ },
+ "Print_Head_Mode": {
+  "en": "Print Head Mode",
+  "uk": "Режим друкуючої голови",
+  "ru": "Режим печатающей головы"
+ },
+ "Print_Return": {
+  "en": "Print Return",
+  "uk": "Повернення друку",
+  "ru": "Возврат печати"
+ },
+ "Print_Vertical_Calibration": {
+  "en": "Vertical Cali",
+  "uk": "Вертикальне калібрування",
+  "ru": "Вертикальная калибровка"
+ },
+ "Printer": {
+  "en": "Printer",
+  "uk": "Принтер",
+  "ru": "Принтер"
+ },
+ "Printer_Is_Not_Ready": {
+  "en": "Printer is not ready.",
+  "uk": "Принтер не готовий",
+  "ru": "Принтер не готов"
+ },
+ "Printing": {
+  "en": "Printing",
+  "uk": "Йде друк",
+  "ru": "Идет печать"
+ },
+ "PrintJobInfo_Resolution": {
+  "en": "PrintJobInfo_Resolution",
+  "uk": "Роздільна здатність друку",
+  "ru": "Разрешение печати"
+ },
+ "Procedure": {
+  "en": "Procedure",
+  "uk": "Процедура",
+  "ru": "Процедура"
+ },
+ "Progress": {
+  "en": "Progress",
+  "uk": "Прогрес",
+  "ru": "Прогресс"
+ },
+ "Property": {
+  "en": "Property",
+  "uk": "Властивість",
+  "ru": "Свойство"
+ },
+ "Protect": {
+  "en": "Protect",
+  "uk": "Захист",
+  "ru": "Защита"
+ },
+ "Pulse": {
+  "en": "Pulse",
+  "uk": "Імпульс",
+  "ru": "Импульс"
+ },
+ "Pulse_Width": {
+  "en": "Pulse Width",
+  "uk": "Ширина імпульсу",
+  "ru": "Ширина импульса"
+ },
+ "Purge": {
+  "en": "Purge",
+  "uk": "Протягнути",
+  "ru": "Протянуть"
+ },
+ "Query": {
+  "en": "Query",
+  "uk": "Запит",
+  "ru": "Запрос"
+ },
+ "Queue": {
+  "en": "Queue",
+  "uk": "Черга",
+  "ru": "Очередь"
+ },
+ "Raster": {
+  "en": "Raster",
+  "uk": "Растр",
+  "ru": "Растр"
+ },
+ "Rate": {
+  "en": "Rate",
+  "uk": "Рівень",
+  "ru": "Уровень"
+ },
+ "Read": {
+  "en": "Read",
+  "uk": "Читати",
+  "ru": "Читать"
+ },
+ "Ready": {
+  "en": "Ready",
+  "uk": "Готовий",
+  "ru": "Готов"
+ },
+ "Rebound": {
+  "en": "Rebound",
+  "uk": "Відскок",
+  "ru": "Отскок"
+ },
+ "Refresh": {
+  "en": "Refresh",
+  "uk": "Оновити",
+  "ru": "Обновить"
+ },
+ "Region": {
+  "en": "Region",
+  "uk": "Область",
+  "ru": "Область"
+ },
+ "Register": {
+  "en": "Register",
+  "uk": "Регістр",
+  "ru": "Регистр"
+ },
+ "Relationship": {
+  "en": "Relationship",
+  "uk": "Зв'язок",
+  "ru": "Связь"
+ },
+ "Remove": {
+  "en": "Remove",
+  "uk": "Прибрати",
+  "ru": "Убрать"
+ },
+ "Repair": {
+  "en": "Repair",
+  "uk": "Полагодити",
+  "ru": "Починить"
+ },
+ "Reset": {
+  "en": "Reset",
+  "uk": "Перезапустити",
+  "ru": "Перезапустить"
+ },
+ "Resolution": {
+  "en": "Resolution",
+  "uk": "Розширення",
+  "ru": "Расширение"
+ },
+ "Rest": {
+  "en": "Rest",
+  "uk": "Відпочинок",
+  "ru": "Отдых"
+ },
+ "Restart": {
+  "en": "Restart",
+  "uk": "Перезапустити",
+  "ru": "Перезапустить"
+ },
+ "Resume": {
+  "en": "Resume",
+  "uk": "Відновити",
+  "ru": "Возобновить"
+ },
+ "Reverse": {
+  "en": "Reverse",
+  "uk": "В іншу сторону",
+  "ru": "В обратную сторону"
+ },
+ "Right": {
+  "en": "Right",
+  "uk": "Right",
+  "ru": "Right"
+ },
+ "Right_To_Left": {
+  "en": "Right To Left",
+  "uk": "Справа наліво",
+  "ru": "Справа налево"
+ },
+ "Rip": {
+  "en": "Rip",
+  "uk": "Rip",
+  "ru": "Rip"
+ },
+ "Ripple": {
+  "en": "Ripple",
+  "uk": "Хвилею",
+  "ru": "Волной"
+ },
+ "Rising": {
+  "en": "Rising",
+  "uk": "Зростаючий",
+  "ru": "Возрастающий"
+ },
+ "Rollback": {
+  "en": "Rollback",
+  "uk": "Відкат",
+  "ru": "Откат"
+ },
+ "Rotate": {
+  "en": "Rotate",
+  "uk": "Обертати",
+  "ru": "Вращать"
+ },
+ "Row": {
+  "en": "Row",
+  "uk": "Ряд",
+  "ru": "Ряд"
+ },
+ "Russian": {
+  "en": "Russian",
+  "uk": "Russian",
+  "ru": "Russian"
+ },
+ "Saturation": {
+  "en": "Saturation",
+  "uk": "Насиченість",
+  "ru": "Насыщенность"
+ },
+ "Save": {
+  "en": "Save",
+  "uk": "Зберегти",
+  "ru": "Сохранить"
+ },
+ "Sawtooth": {
+  "en": "Sawtooth",
+  "uk": "Пилоподібний",
+  "ru": "Пилообразный"
+ },
+ "Scan": {
+  "en": "Scan",
+  "uk": "Скан",
+  "ru": "Скан"
+ },
+ "Scan_Mode": {
+  "en": "Scan Mode",
+  "uk": "Режим сканування",
+  "ru": "Режим сканирования"
+ },
+ "Second": {
+  "en": "Second",
+  "uk": "Секунда",
+  "ru": "Секунда"
+ },
+ "Select": {
+  "en": "Select",
+  "uk": "Вибрати",
+  "ru": "Выбрать"
+ },
+ "Sensor": {
+  "en": "Sensor",
+  "uk": "Сенсор",
+  "ru": "Сенсор"
+ },
+ "Sequence": {
+  "en": "Sequence",
+  "uk": "Послідовність",
+  "ru": "Последовательность"
+ },
+ "Service": {
+  "en": "Service",
+  "uk": "Сервіс",
+  "ru": "Сервис"
+ },
+ "Set": {
+  "en": "Set",
+  "uk": "Встановити",
+  "ru": "Установить"
+ },
+ "Set_As": {
+  "en": "Set As",
+  "uk": "Встановити як",
+  "ru": "Установить как"
+ },
+ "Set_As_Default": {
+  "en": "Set As Default",
+  "uk": "Встановити за замовчуванням",
+  "ru": "Установить по умолчанию"
+ },
+ "Set_As_Origin": {
+  "en": "Set As Origin",
+  "uk": "Встановити як вихідний",
+  "ru": "Установить как исходник"
+ },
+ "Setting": {
+  "en": "Setting",
+  "uk": "Налаштування",
+  "ru": "Настройка"
+ },
+ "Signal": {
+  "en": "Signal",
+  "uk": "Сигнал",
+  "ru": "Сигнал"
+ },
+ "Simple": {
+  "en": "Simple",
+  "uk": "Простий",
+  "ru": "Простой"
+ },
+ "Simulate": {
+  "en": "Simulate",
+  "uk": "Симулювати",
+  "ru": "Симулировать"
+ },
+ "Size": {
+  "en": "Size",
+  "uk": "Розмір",
+  "ru": "Размер"
+ },
+ "Slot": {
+  "en": "Slot",
+  "uk": "Слот",
+  "ru": "Слот"
+ },
+ "Slow": {
+  "en": "Slow",
+  "uk": "Повільна",
+  "ru": "Медленная"
+ },
+ "Small": {
+  "en": "Small",
+  "uk": "Мала",
+  "ru": "Малая"
+ },
+ "Smooth": {
+  "en": "Smooth",
+  "uk": "Мʼякий",
+  "ru": "Мягкий"
+ },
+ "Soft_Keyboard": {
+  "en": "Soft Keyboard",
+  "uk": "Програмна клавіатура",
+  "ru": "Программная клавиатура"
+ },
+ "Software": {
+  "en": "Software",
+  "uk": "Програмне забезпечення",
+  "ru": "Программное обеспечение"
+ },
+ "Space": {
+  "en": "Space",
+  "uk": " ",
+  "ru": " "
+ },
+ "Spanish": {
+  "en": "Spanish",
+  "uk": "Іспанська",
+  "ru": "Испанский"
+ },
+ "Speed": {
+  "en": "Speed",
+  "uk": "Швидкість",
+  "ru": "Скорость"
+ },
+ "Speed_Up_Time": {
+  "en": "Speed Up Time",
+  "uk": "Пришвидшити час",
+  "ru": "Ускорить время"
+ },
+ "Spit": {
+  "en": "Flash",
+  "uk": "Флеш",
+  "ru": "Флеш"
+ },
+ "Spit_Times_Per_Second": {
+  "en": "Flashes Per Second",
+  "uk": "Флешів за секунду",
+  "ru": "Флешей в секунду"
+ },
+ "Spot_Color": {
+  "en": "Spot Color",
+  "uk": "Плашковий шар",
+  "ru": "Плашечный слой"
+ },
+ "Spot_Color_Decrease": {
+  "en": "Decrease",
+  "uk": "Зменшити",
+  "ru": "Уменьшить"
+ },
+ "Spot_Color_Increase": {
+  "en": "Increase",
+  "uk": "Збільшити",
+  "ru": "Увеличить"
+ },
+ "Spray_When_Idle": {
+  "en": "Spray When Idle",
+  "uk": "Розпиляти під час очікування",
+  "ru": "Распылять во время ожидания"
+ },
+ "Square_Meter": {
+  "en": "Square Meter",
+  "uk": "Квадратний метр",
+  "ru": "Квадратный метр"
+ },
+ "Standard": {
+  "en": "Standard",
+  "uk": "Стандарт",
+  "ru": "Стандарт"
+ },
+ "Standard_2": {
+  "en": "Standard",
+  "uk": "Стандарт 2",
+  "ru": "Стандарт 2"
+ },
+ "Start": {
+  "en": "Start",
+  "uk": "Старт",
+  "ru": "Старт"
+ },
+ "Statistics": {
+  "en": "Statistics",
+  "uk": "Статистика  ",
+  "ru": "Статистика "
+ },
+ "Status": {
+  "en": "Status",
+  "uk": "Статус",
+  "ru": "Статус"
+ },
+ "Stay": {
+  "en": "Stay",
+  "uk": "Залишитись",
+  "ru": "Остаться"
+ },
+ "Step": {
+  "en": "Step",
+  "uk": "Step",
+  "ru": "Step"
+ },
+ "Step_Correction": {
+  "en": "Step Correction",
+  "uk": "Корекція кроку/ступеня",
+  "ru": "Коррекция шага/ступени"
+ },
+ "Step_For_Job_Last_White": {
+  "en": "Step for Job Last White",
+  "uk": "Крок до Job Last White",
+  "ru": "Шаг к Job Last White"
+ },
+ "Step_Value": {
+  "en": "Step Value",
+  "uk": "Значення кроку",
+  "ru": "Значение шага"
+ },
+ "Stir": {
+  "en": "Stir",
+  "uk": "Перемішати",
+  "ru": "Перемешать"
+ },
+ "Stop": {
+  "en": "Stop",
+  "uk": "Стоп",
+  "ru": "Стоп"
+ },
+ "Success": {
+  "en": "Success",
+  "uk": "Успішно",
+  "ru": "Успешно"
+ },
+ "Surface": {
+  "en": "Surface",
+  "uk": "Поверхня",
+  "ru": "Поверхность"
+ },
+ "System": {
+  "en": "System",
+  "uk": "Система",
+  "ru": "Система"
+ },
+ "SafetyGate": {
+  "en": "SafetyGate",
+  "uk": "Ворота безпеки",
+  "ru": "Ворота безопасности"
+ },
+ "Solidify": {
+  "en": "Solidify",
+  "uk": "засвітка",
+  "ru": "засветка"
+ },
+ "SinglePassMemOutstripDDrMem": {
+  "en": "SinglePassMemOutstripDDrMem",
+  "uk": "SinglePassMemOutstripDDrMem",
+  "ru": "SinglePassMemOutstripDDrMem"
+ },
+ "SuctionPort": {
+  "en": "SuctionPort",
+  "uk": "Порт всасування",
+  "ru": "Порт всасывания"
+ },
+ "Self_help": {
+  "en": "Self_help",
+  "uk": "Порт всасування",
+  "ru": "Порт всасывания"
+ },
+ "ShowMainWindow": {
+  "en": "Show Main Window",
+  "uk": "Порт всасування",
+  "ru": "Порт всасывания"
+ },
+ "Target": {
+  "en": "Target",
+  "uk": "Ціль",
+  "ru": "Цель"
+ },
+ "Temperature": {
+  "en": "Temperature",
+  "uk": "Температура",
+  "ru": "Температура"
+ },
+ "Template": {
+  "en": "Template",
+  "uk": "Шаблон",
+  "ru": "Шаблон"
+ },
+ "Test": {
+  "en": "Test",
+  "uk": "Тест",
+  "ru": "Тест"
+ },
+ "Thread": {
+  "en": "Thread",
+  "uk": "Нитка",
+  "ru": "Нить"
+ },
+ "Time": {
+  "en": "Time",
+  "uk": "Час",
+  "ru": "Время "
+ },
+ "Times": {
+  "en": "Times",
+  "uk": "Кількість разів",
+  "ru": "Количество раз"
+ },
+ "Tips": {
+  "en": "Tips",
+  "uk": "Підказки",
+  "ru": "Подсказки"
+ },
+ "Title": {
+  "en": "Title",
+  "uk": "Назва",
+  "ru": "Название"
+ },
+ "To": {
+  "en": "To",
+  "uk": "→",
+  "ru": "→"
+ },
+ "Tool": {
+  "en": "Tool",
+  "uk": "Інструмент",
+  "ru": "К"
+ },
+ "Toolbar_Button_0_Standard_Text": {
+  "en": "Print Job",
+  "uk": "Задача",
+  "ru": "Задача"
+ },
+ "Toolbar_Button_CheckNozzle": {
+  "en": "Status",
+  "uk": "Статус",
+  "ru": "Статус"
+ },
+ "Toolbar_Button_GoHome_X": {
+  "en": "Home",
+  "uk": "Додому",
+  "ru": "Домой"
+ },
+ "Toolbar_Button_GoHome_Y": {
+  "en": "Home_Y",
+  "uk": "YДодому",
+  "ru": "YДомой"
+ },
+ "Top": {
+  "en": "Top",
+  "uk": "Верх",
+  "ru": "Верх"
+ },
+ "Total": {
+  "en": "Total",
+  "uk": "Всього",
+  "ru": "Всего"
+ },
+ "Tray": {
+  "en": "Tray",
+  "uk": "Парковка",
+  "ru": "Парковка"
+ },
+ "Trigger": {
+  "en": "Trigger",
+  "uk": "Тригер",
+  "ru": "Триггер"
+ },
+ "Turkey": {
+  "en": "Turkey",
+  "uk": "Турція",
+  "ru": "Турция"
+ },
+ "Turkish": {
+  "en": "Turkish",
+  "uk": "Турецька",
+  "ru": "Турецкий"
+ },
+ "Type": {
+  "en": "Type",
+  "uk": "Тип",
+  "ru": "Тип"
+ },
+ "UIStyle_1": {
+  "en": "UIStyle_1",
+  "uk": "UIStyle_1",
+  "ru": "UIStyle_1"
+ },
+ "UIStyle_2": {
+  "en": "UIStyle_2",
+  "uk": "UIStyle_2",
+  "ru": "UIStyle_2"
+ },
+ "Ukrainian": {
+  "en": "Ukrainian",
+  "uk": "Українська",
+  "ru": "Украинский"
+ },
+ "Unidirection": {
+  "en": "Unidirection",
+  "uk": "Односпрямованість",
+  "ru": "Однонаправленность"
+ },
+ "Unit": {
+  "en": "Unit",
+  "uk": "юніт",
+  "ru": "Юнит"
+ },
+ "Unit_Abbr_cm": {
+  "en": "cm",
+  "uk": "сантиметр",
+  "ru": "сантиметр"
+ },
+ "Unit_Abbr_feet": {
+  "en": "feet",
+  "uk": "фут",
+  "ru": "фут"
+ },
+ "Unit_Abbr_hertz": {
+  "en": "hertz",
+  "uk": "герц",
+  "ru": "герц"
+ },
+ "Unit_Abbr_inch": {
+  "en": "inch",
+  "uk": "дюйм",
+  "ru": "дюйм"
+ },
+ "Unit_Abbr_m": {
+  "en": "m",
+  "uk": "метр",
+  "ru": "метр"
+ },
+ "Unit_Abbr_mm": {
+  "en": "mm",
+  "uk": "мм",
+  "ru": "мм"
+ },
+ "Unit_Abbr_ms": {
+  "en": "ms",
+  "uk": "мілісекунда",
+  "ru": "милисекунда"
+ },
+ "Unit_Abbr_ns": {
+  "en": "ns",
+  "uk": "наносекунда",
+  "ru": "наносекунда"
+ },
+ "Unit_Abbr_pixel": {
+  "en": "pixel",
+  "uk": "піксель",
+  "ru": "пиксель"
+ },
+ "Unit_Abbr_pulse": {
+  "en": "pulse",
+  "uk": "пульс",
+  "ru": "пульс"
+ },
+ "Unit_Abbr_s": {
+  "en": "s",
+  "uk": "секунда",
+  "ru": "секунда"
+ },
+ "Unit_Abbr_us": {
+  "en": "us",
+  "uk": "us",
+  "ru": "us"
+ },
+ "Unit_Price": {
+  "en": "unit price",
+  "uk": "ціна юніта",
+  "ru": "цена юнита"
+ },
+ "Unlimited": {
+  "en": "Unlimited",
+  "uk": "Необмежений",
+  "ru": "Неограничен"
+ },
+ "Unprotect": {
+  "en": "Unprotect",
+  "uk": "Незахищений",
+  "ru": "Незащищен"
+ },
+ "Up": {
+  "en": "Up",
+  "uk": "Вгору",
+  "ru": "Вверх"
+ },
+ "Update": {
+  "en": "Update",
+  "uk": "Оновити",
+  "ru": "Обновить "
+ },
+ "Upgrade": {
+  "en": "Upgrade",
+  "uk": "Покращити",
+  "ru": "Улучшить"
+ },
+ "Use": {
+  "en": "Use",
+  "uk": "Використати",
+  "ru": "Использовать"
+ },
+ "Used": {
+  "en": "Used",
+  "uk": "Використаний",
+  "ru": "Использован"
+ },
+ "User": {
+  "en": "User",
+  "uk": "Користувач",
+  "ru": "Пользователь"
+ },
+ "Value": {
+  "en": "Value",
+  "uk": "значення",
+  "ru": "значение"
+ },
+ "Varnish": {
+  "en": "Varnish",
+  "uk": "Лак",
+  "ru": "Лак"
+ },
+ "Version": {
+  "en": "Version",
+  "uk": "Версія ",
+  "ru": "Версия"
+ },
+ "Vertical": {
+  "en": "Vertical",
+  "uk": "Vertical",
+  "ru": "Vertical"
+ },
+ "Vertical_2": {
+  "en": "Vertical",
+  "uk": "Вертикальний 2",
+  "ru": "Вертикальный 2"
+ },
+ "Voltage": {
+  "en": "Voltage",
+  "uk": "Вольтаж",
+  "ru": "Вольтаж"
+ },
+ "Vision": {
+  "en": "Vision",
+  "uk": "Vision",
+  "ru": "Vision"
+ },
+ "Wait": {
+  "en": "Wait",
+  "uk": "Чекати сигнал від медіа",
+  "ru": "Ждать"
+ },
+ "Wait_Media_Signal": {
+  "en": "Wait Media Signal",
+  "uk": "Чекати сигнал медіа",
+  "ru": "Ждать сигнал медиа"
+ },
+ "Warning": {
+  "en": "Warning",
+  "uk": "Попередження",
+  "ru": "Предупреждение"
+ },
+ "Waste_Ink": {
+  "en": "Waste Ink",
+  "uk": "Витрата чорнил",
+  "ru": "Расход чернил"
+ },
+ "Waveform": {
+  "en": "Waveform",
+  "uk": "Форма хвилі",
+  "ru": "Форма волны"
+ },
+ "White": {
+  "en": "White",
+  "uk": "Білий",
+  "ru": "Белый"
+ },
+ "White_Edge": {
+  "en": "White Edge",
+  "uk": "Білий край",
+  "ru": "Белый край"
+ },
+ "Whole": {
+  "en": "Whole",
+  "uk": "Цілий",
+  "ru": "Целый"
+ },
+ "Width": {
+  "en": "Width",
+  "uk": "Ширина",
+  "ru": "Ширина"
+ },
+ "Wipe": {
+  "en": "Wipe",
+  "uk": "Стерти",
+  "ru": "Стереть"
+ },
+ "Wiper_Blade": {
+  "en": "Wiper Blade",
+  "uk": "Лезвие",
+  "ru": "Лезвие"
+ },
+ "Write": {
+  "en": "Write",
+  "uk": "Написати",
+  "ru": "Написать"
+ },
+ "Work": {
+  "en": "Work",
+  "uk": "Працювати",
+  "ru": "Работать"
+ },
+ "When_Repeat_Printing": {
+  "en": "When Repeat Printing",
+  "uk": "Під час повтору друку",
+  "ru": "Во время повтора печати"
+ },
+ "When_Machine_Initialize_End": {
+  "en": "When Machine Initialize End",
+  "uk": "Після ініціалізації машини",
+  "ru": "После инициализации машины"
+ },
+ "X_Copies": {
+  "en": "X Copies",
+  "uk": "Х копій",
+  "ru": "Х копий"
+ },
+ "X_Origin_Is_Too_Small": {
+  "en": "X Origin is too small",
+  "uk": "Початкове значення Х занадто мале",
+  "ru": "Начальное значение Х слишком мало"
+ },
+ "X_Space": {
+  "en": "X Space",
+  "uk": "X ширина",
+  "ru": "X ширина"
+ },
+ "Y_Copies": {
+  "en": "Y Copies",
+  "uk": "Y копій",
+  "ru": "Y копий"
+ },
+ "Y_Space": {
+  "en": "Y Space",
+  "uk": "Y довжина",
+  "ru": "Y длина"
+ },
+ "Yes": {
+  "en": "Yes",
+  "uk": "Так",
+  "ru": "Да"
+ }
+}
