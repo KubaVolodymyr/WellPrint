@@ -1,5 +1,5 @@
 # Патч ConfigCommon.dll для діалогу білого («Union Set»→«Під каналами», «Negation»→«Інверсія»; інші мови — «Под каналами»/«Инверсия»).
-# ЛИШЕ для збірки WellPrint 27102026 (MD5 оригіналу 10adfe6b53b99fdafc424eecff4884c6): скрипт перевіряє очікувані байти й падає, якщо збірка інша. Робіть копію DLL. На свій ризик.
+# ЛИШЕ для ConfigCommon.dll з MD5 10adfe6b53b99fdafc424eecff4884c6: скрипт перевіряє очікувані байти й падає, якщо збірка інша. Робіть копію DLL. На свій ризик.
 # Використання: python3 patch-configcommon.py ConfigCommon.dll.orig ConfigCommon.dll
 import sys, struct, hashlib
 b=bytearray(open(sys.argv[1],'rb').read()); f=lambda rva: rva-0x1000+0x400
