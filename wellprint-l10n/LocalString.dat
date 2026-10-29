@@ -234,8 +234,8 @@
         <Japanese/>
         <Korean>인쇄 후</Korean>
         <Turkish>Bask齞an Sonra</Turkish>
-        <Russian>После печати:</Russian>
-        <Ukrainian>Після друку:</Ukrainian>
+        <Russian>После печати</Russian>
+        <Ukrainian>Після друку</Ukrainian>
         <Portuguese>Apos a Impressao</Portuguese>
         <French>Après l&apos;impression</French>
         <Spanish>Después de Imprimir</Spanish>
@@ -298,8 +298,8 @@
         <Japanese/>
         <Korean>주석</Korean>
         <Turkish>Dip Not</Turkish>
-        <Russian>Аннотация</Russian>
-        <Ukrainian>Анотація </Ukrainian>
+        <Russian>аннотации</Russian>
+        <Ukrainian>анотації</Ukrainian>
         <Portuguese>Anotacao</Portuguese>
         <French>Commentaires</French>
         <Spanish>Anotación</Spanish>
@@ -1556,17 +1556,17 @@
     <SubItem>
       <StringResourceId>Custom_Wait_Print_Start_Signal</StringResourceId>
       <StringResourceNode>
-        <English/>
-        <Chinese_Simplified/>
-        <Chinese_Traditional/>
-        <Japanese/>
-        <Korean/>
-        <Turkish>Ozel Bekleme Yazdirma Baslatma Sinyali</Turkish>
-        <Russian/>
-        <Ukrainian/>
-        <Portuguese>Customizacao antes do sinal de inicio</Portuguese>
-        <French/>
-        <Spanish/>
+        <English> </English>
+        <Chinese_Simplified> </Chinese_Simplified>
+        <Chinese_Traditional> </Chinese_Traditional>
+        <Japanese> </Japanese>
+        <Korean> </Korean>
+        <Turkish> </Turkish>
+        <Russian> </Russian>
+        <Ukrainian> </Ukrainian>
+        <Portuguese> </Portuguese>
+        <French> </French>
+        <Spanish> </Spanish>
       </StringResourceNode>
     </SubItem>
     <SubItem>
@@ -2915,14 +2915,14 @@
     <SubItem>
       <StringResourceId>French</StringResourceId>
       <StringResourceNode>
-        <English>French</English>
+        <English>Left lamp on when printing left</English>
         <Chinese_Simplified>法语</Chinese_Simplified>
         <Chinese_Traditional>法语</Chinese_Traditional>
         <Japanese/>
         <Korean/>
         <Turkish/>
-        <Russian>Французский</Russian>
-        <Ukrainian>Французька</Ukrainian>
+        <Russian>Левая лампа: печать влево</Russian>
+        <Ukrainian>Ліва лампа: друк вліво</Ukrainian>
         <Portuguese/>
         <French/>
         <Spanish/>
@@ -3859,14 +3859,14 @@
     <SubItem>
       <StringResourceId>Japanese</StringResourceId>
       <StringResourceNode>
-        <English>Japanese</English>
+        <English>Lamp offset when moving right</English>
         <Chinese_Simplified>日语</Chinese_Simplified>
         <Chinese_Traditional>日語</Chinese_Traditional>
         <Japanese/>
         <Korean>일본어</Korean>
         <Turkish>Japanese</Turkish>
-        <Russian>Японский</Russian>
-        <Ukrainian>Японська</Ukrainian>
+        <Russian>Смещение лампы при движении вправо</Russian>
+        <Ukrainian>Зміщення лампи при русі вправо</Ukrainian>
         <Portuguese>Japones</Portuguese>
         <French>Japonais</French>
         <Spanish>Japonés</Spanish>
@@ -3897,8 +3897,8 @@
         <Japanese/>
         <Korean>뛰어 흰</Korean>
         <Turkish>Beyaz Atlama</Turkish>
-        <Russian>Перейти в белый</Russian>
-        <Ukrainian>Перейти в білий</Ukrainian>
+        <Russian>Пропуск белого</Russian>
+        <Ukrainian>Пропуск білого</Ukrainian>
         <Portuguese>Pular Branco</Portuguese>
         <French>Saut blanc</French>
         <Spanish>Saltar blanco</Spanish>
@@ -3907,14 +3907,14 @@
     <SubItem>
       <StringResourceId>Korean</StringResourceId>
       <StringResourceNode>
-        <English>Korean</English>
+        <English>Left lamp on when printing right</English>
         <Chinese_Simplified>韩语</Chinese_Simplified>
         <Chinese_Traditional/>
         <Japanese/>
         <Korean>韩语</Korean>
         <Turkish/>
-        <Russian>Корейский</Russian>
-        <Ukrainian>Корейська</Ukrainian>
+        <Russian>Левая лампа: печать вправо</Russian>
+        <Ukrainian>Ліва лампа: друк вправо</Ukrainian>
         <Portuguese/>
         <French/>
         <Spanish/>
@@ -4904,8 +4904,8 @@
         <Japanese/>
         <Korean>무</Korean>
         <Turkish>Hicbiri</Turkish>
-        <Russian>Никакой из предложенных</Russian>
-        <Ukrainian>Жоден з запропонованих</Ukrainian>
+        <Russian>Выключено</Russian>
+        <Ukrainian>Вимкнено</Ukrainian>
         <Portuguese>Nenhum</Portuguese>
         <French>Aucun</French>
         <Spanish>Ninguno</Spanish>
@@ -4920,8 +4920,8 @@
         <Japanese/>
         <Korean>일반</Korean>
         <Turkish>Normal</Turkish>
-        <Russian>Нормальный</Russian>
-        <Ukrainian>Нормальний</Ukrainian>
+        <Russian>Обычный</Russian>
+        <Ukrainian>Звичайний</Ukrainian>
         <Portuguese>Normal</Portuguese>
         <French>Ordinaire</French>
         <Spanish>Normal</Spanish>
@@ -5319,7 +5319,7 @@
         <Japanese/>
         <Korean>암호</Korean>
         <Turkish>辤fre</Turkish>
-        <Russian>ПарольПароль</Russian>
+        <Russian>Пароль</Russian>
         <Ukrainian>Пароль</Ukrainian>
         <Portuguese>Senha</Portuguese>
         <French>Mot de passe</French>
@@ -5367,7 +5367,7 @@
         <Japanese/>
         <Korean>일시 정지</Korean>
         <Turkish>Duraklat</Turkish>
-        <Russian>Путь</Russian>
+        <Russian>Пауза</Russian>
         <Ukrainian>Пауза</Ukrainian>
         <Portuguese>Pausar</Portuguese>
         <French>Suspension</French>
@@ -5553,14 +5553,14 @@
     <SubItem>
       <StringResourceId>Portuguese</StringResourceId>
       <StringResourceNode>
-        <English>Portuguese</English>
+        <English>Right lamp on when printing left</English>
         <Chinese_Simplified>葡萄牙语</Chinese_Simplified>
         <Chinese_Traditional>葡萄牙語</Chinese_Traditional>
         <Japanese/>
         <Korean/>
         <Turkish/>
-        <Russian>Португальский</Russian>
-        <Ukrainian>Португальська</Ukrainian>
+        <Russian>Правая лампа: печать влево</Russian>
+        <Ukrainian>Права лампа: друк вліво</Ukrainian>
         <Portuguese/>
         <French>En portugais</French>
         <Spanish/>
@@ -5623,8 +5623,8 @@
         <Japanese/>
         <Korean>향</Korean>
         <Turkish>Pozitif</Turkish>
-        <Russian>Положительный</Russian>
-        <Ukrainian>Позитивний</Ukrainian>
+        <Russian>в плюс</Russian>
+        <Ukrainian>у плюс</Ukrainian>
         <Portuguese>Positivo</Portuguese>
         <French>Positive</French>
         <Spanish>Positivo</Spanish>
@@ -6943,14 +6943,14 @@
     <SubItem>
       <StringResourceId>Spanish</StringResourceId>
       <StringResourceNode>
-        <English>Spanish</English>
+        <English>Right lamp on when printing right</English>
         <Chinese_Simplified>西班牙语</Chinese_Simplified>
         <Chinese_Traditional>西班牙语</Chinese_Traditional>
         <Japanese/>
         <Korean/>
         <Turkish/>
-        <Russian>Испанский</Russian>
-        <Ukrainian>Іспанська</Ukrainian>
+        <Russian>Правая лампа: печать вправо</Russian>
+        <Ukrainian>Права лампа: друк вправо</Ukrainian>
         <Portuguese>Espanhol</Portuguese>
         <French/>
         <Spanish>Espanhol</Spanish>
@@ -7375,14 +7375,14 @@
     <SubItem>
       <StringResourceId>SinglePassMemOutstripDDrMem</StringResourceId>
       <StringResourceNode>
-        <English>SinglePassMemOutstripDDrMem</English>
+        <English>CMYK curing after print</English>
         <Chinese_Simplified>单pass数据超过了ddr内存大小</Chinese_Simplified>
         <Chinese_Traditional>单pass数据超过了ddr内存大小</Chinese_Traditional>
         <Japanese/>
         <Korean>单pass数据超过了ddr内存大小</Korean>
         <Turkish/>
-        <Russian>SinglePassMemOutstripDDrMem</Russian>
-        <Ukrainian>SinglePassMemOutstripDDrMem</Ukrainian>
+        <Russian>Засветка CMYK после печати</Russian>
+        <Ukrainian>Засвітка CMYK після друку</Ukrainian>
         <Portuguese>SinglePassMemOutstripDDrMem</Portuguese>
         <French>Les données de passage unique dépassent la taille de la mémoire ddr</French>
         <Spanish>Los datos de pasada única superan el tamaño de la memoria DDR</Spanish>
@@ -7740,14 +7740,14 @@
     <SubItem>
       <StringResourceId>Turkey</StringResourceId>
       <StringResourceNode>
-        <English>Turkey</English>
+        <English>Varnish curing after print</English>
         <Chinese_Simplified>土耳其</Chinese_Simplified>
         <Chinese_Traditional>土耳其</Chinese_Traditional>
         <Japanese/>
         <Korean>터키</Korean>
         <Turkish/>
-        <Russian>Турция</Russian>
-        <Ukrainian>Турція</Ukrainian>
+        <Russian>Засветка лака после печати</Russian>
+        <Ukrainian>Засвітка лаку після друку</Ukrainian>
         <Portuguese>Peru</Portuguese>
         <French>Turquie</French>
         <Spanish>Turquía</Spanish>
@@ -7756,14 +7756,14 @@
     <SubItem>
       <StringResourceId>Turkish</StringResourceId>
       <StringResourceNode>
-        <English>Turkish</English>
+        <English>Lamp offset when moving left</English>
         <Chinese_Simplified>土耳其语</Chinese_Simplified>
         <Chinese_Traditional>土耳其语</Chinese_Traditional>
         <Japanese/>
         <Korean>터키어로</Korean>
         <Turkish/>
-        <Russian>Турецкий</Russian>
-        <Ukrainian>Турецька</Ukrainian>
+        <Russian>Смещение лампы при движении влево</Russian>
+        <Ukrainian>Зміщення лампи при русі вліво</Ukrainian>
         <Portuguese>Turco</Portuguese>
         <French>Langue turque</French>
         <Spanish>Turco</Spanish>
@@ -8530,8 +8530,8 @@
         <Japanese/>
         <Korean>当重复打印时</Korean>
         <Turkish>Yazdirmayi Tekrarla</Turkish>
-        <Russian>Во время повтора печати</Russian>
-        <Ukrainian>Під час повтору друку</Ukrainian>
+        <Russian>при повторной печати</Russian>
+        <Ukrainian>при повторному друці</Ukrainian>
         <Portuguese>Repetir impressao</Portuguese>
         <French>Lors de l&apos;impression répétée</French>
         <Spanish>Al repetir la impresión</Spanish>

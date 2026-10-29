@@ -71,8 +71,8 @@
  },
  "After_Print": {
   "en": "After Print",
-  "uk": "Після друку:",
-  "ru": "После печати:"
+  "uk": "Після друку",
+  "ru": "После печати"
  },
  "Alignment": {
   "en": "Alignment",
@@ -91,8 +91,8 @@
  },
  "Annotation": {
   "en": "Annotation",
-  "uk": "Анотація ",
-  "ru": "Аннотация"
+  "uk": "анотації",
+  "ru": "аннотации"
  },
  "Anticlockwise": {
   "en": "Anticlockwise",
@@ -485,9 +485,9 @@
   "ru": "Кастомизировать"
  },
  "Custom_Wait_Print_Start_Signal": {
-  "en": "",
-  "uk": "",
-  "ru": ""
+  "en": " ",
+  "uk": " ",
+  "ru": " "
  },
  "Cut_Paper": {
   "en": "Cutting",
@@ -910,9 +910,9 @@
   "ru": "Вперед"
  },
  "French": {
-  "en": "French",
-  "uk": "Французька",
-  "ru": "Французский"
+  "en": "Left lamp on when printing left",
+  "uk": "Ліва лампа: друк вліво",
+  "ru": "Левая лампа: печать влево"
  },
  "Frequency": {
   "en": "Frequency",
@@ -1205,9 +1205,9 @@
   "ru": "Инверсия"
  },
  "Japanese": {
-  "en": "Japanese",
-  "uk": "Японська",
-  "ru": "Японский"
+  "en": "Lamp offset when moving right",
+  "uk": "Зміщення лампи при русі вправо",
+  "ru": "Смещение лампы при движении вправо"
  },
  "Job": {
   "en": "Job",
@@ -1216,13 +1216,13 @@
  },
  "Jump_White": {
   "en": "Jump White",
-  "uk": "Перейти в білий",
-  "ru": "Перейти в белый"
+  "uk": "Пропуск білого",
+  "ru": "Пропуск белого"
  },
  "Korean": {
-  "en": "Korean",
-  "uk": "Корейська",
-  "ru": "Корейский"
+  "en": "Left lamp on when printing right",
+  "uk": "Ліва лампа: друк вправо",
+  "ru": "Левая лампа: печать вправо"
  },
  "Ladder": {
   "en": "Ladder",
@@ -1531,13 +1531,13 @@
  },
  "None": {
   "en": "None",
-  "uk": "Жоден з запропонованих",
-  "ru": "Никакой из предложенных"
+  "uk": "Вимкнено",
+  "ru": "Выключено"
  },
  "Normal": {
   "en": "Normal",
-  "uk": "Нормальний",
-  "ru": "Нормальный"
+  "uk": "Звичайний",
+  "ru": "Обычный"
  },
  "Normal_Close": {
   "en": "NC",
@@ -1662,7 +1662,7 @@
  "Password": {
   "en": "Password",
   "uk": "Пароль",
-  "ru": "ПарольПароль"
+  "ru": "Пароль"
  },
  "Path": {
   "en": "Path",
@@ -1677,7 +1677,7 @@
  "Pause": {
   "en": "Pause",
   "uk": "Пауза",
-  "ru": "Путь"
+  "ru": "Пауза"
  },
  "Pc_Hibernate": {
   "en": "Pc Hibernate",
@@ -1735,9 +1735,9 @@
   "ru": "Порт"
  },
  "Portuguese": {
-  "en": "Portuguese",
-  "uk": "Португальська",
-  "ru": "Португальский"
+  "en": "Right lamp on when printing left",
+  "uk": "Права лампа: друк вліво",
+  "ru": "Правая лампа: печать влево"
  },
  "Position": {
   "en": "Position",
@@ -1756,8 +1756,8 @@
  },
  "Positive": {
   "en": "Positive",
-  "uk": "Позитивний",
-  "ru": "Положительный"
+  "uk": "у плюс",
+  "ru": "в плюс"
  },
  "Power_cannot_be_cut_off_during_upgrade": {
   "en": "Power cannot be cut off during upgrade!",
@@ -2170,9 +2170,9 @@
   "ru": " "
  },
  "Spanish": {
-  "en": "Spanish",
-  "uk": "Іспанська",
-  "ru": "Испанский"
+  "en": "Right lamp on when printing right",
+  "uk": "Права лампа: друк вправо",
+  "ru": "Правая лампа: печать вправо"
  },
  "Speed": {
   "en": "Speed",
@@ -2305,9 +2305,9 @@
   "ru": "засветка"
  },
  "SinglePassMemOutstripDDrMem": {
-  "en": "SinglePassMemOutstripDDrMem",
-  "uk": "SinglePassMemOutstripDDrMem",
-  "ru": "SinglePassMemOutstripDDrMem"
+  "en": "CMYK curing after print",
+  "uk": "Засвітка CMYK після друку",
+  "ru": "Засветка CMYK после печати"
  },
  "SuctionPort": {
   "en": "SuctionPort",
@@ -2420,14 +2420,14 @@
   "ru": "Триггер"
  },
  "Turkey": {
-  "en": "Turkey",
-  "uk": "Турція",
-  "ru": "Турция"
+  "en": "Varnish curing after print",
+  "uk": "Засвітка лаку після друку",
+  "ru": "Засветка лака после печати"
  },
  "Turkish": {
-  "en": "Turkish",
-  "uk": "Турецька",
-  "ru": "Турецкий"
+  "en": "Lamp offset when moving left",
+  "uk": "Зміщення лампи при русі вліво",
+  "ru": "Смещение лампы при движении влево"
  },
  "Type": {
   "en": "Type",
@@ -2666,8 +2666,8 @@
  },
  "When_Repeat_Printing": {
   "en": "When Repeat Printing",
-  "uk": "Під час повтору друку",
-  "ru": "Во время повтора печати"
+  "uk": "при повторному друці",
+  "ru": "при повторной печати"
  },
  "When_Machine_Initialize_End": {
   "en": "When Machine Initialize End",
